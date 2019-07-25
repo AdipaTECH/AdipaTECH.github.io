@@ -3,17 +3,17 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://bluedawnstd.io/</loc>
+    <loc>bluedawnstd.com/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://bluedawnstd.io/categories/</loc>
+    <loc>bluedawnstd.com/tags/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://bluedawnstd.io/tags/</loc>
+    <loc>bluedawnstd.com/topics/</loc>
     <priority>0</priority>
   </url>
   

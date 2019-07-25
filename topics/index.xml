@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>BlueDawn Studio</title>
-    <link>bluedawnstd.com/</link>
-    <description>Recent content on BlueDawn Studio</description>
+    <title>Topics on BlueDawn Studio</title>
+    <link>bluedawnstd.com/topics/</link>
+    <description>Recent content in Topics on BlueDawn Studio</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-EN</language>
     <managingEditor>TheIndoGamerz@gmail.com (Adipa)</managingEditor>
     <webMaster>TheIndoGamerz@gmail.com (Adipa)</webMaster>
     <copyright>(c) 2015 BlueDawnSTD.</copyright>
     
-	<atom:link href="bluedawnstd.com/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="bluedawnstd.com/topics/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>
